@@ -1,12 +1,11 @@
-# `docs/looker_studio_dashboard_instructions.md`
-
-This document provides detailed instructions for configuring the Looker Studio dashboard, aligning with established data and analytics engineering standards. It covers the setup and styling for each scorecard and chart.
-
-### Looker Studio Dashboard Schematic: Discovery Mode Impact
+## **Looker Studio Dashboard Schematic: Discovery Mode Impact**
+---
 
 **Data Scientist:** Daniel Rodriguez III
 
 **Date:** August 18, 2026
+
+---
 
 **Dashboard Title:** Discovery Mode Performance & Listener Experience
 
