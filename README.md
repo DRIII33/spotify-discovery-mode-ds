@@ -1,6 +1,3 @@
-# spotify-discovery-mode-ds
-
----
 **Data Scientist:** Daniel Rodriguez III
 
 **Date:** August 18, 2026
