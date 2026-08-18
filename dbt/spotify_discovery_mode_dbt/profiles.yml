@@ -1,0 +1,14 @@
+This file configures dbt to connect to your BigQuery project. Place this in your dbt project's root directory (`~/.dbt/` or within the dbt project folder).
+
+```yaml
+spotify_discovery_mode_dbt:
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: driiiportfolio  # Replace with your GCP project ID
+      dataset: analytics_spotify     # Target dataset for dbt models
+      threads: 1
+      timeout_seconds: 300
+      location: US             # Replace with your dataset location (e.g., EU or US)
+  target: dev
